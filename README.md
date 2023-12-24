@@ -25,11 +25,3 @@ Feel free to contribute and make this Online Reservation System even better!
 
 
 
-
-
-
-
-
-
-[List any external libraries or frameworks used, if applicable.]
-Feel free to contribute and make this Online Reservation System even better!
